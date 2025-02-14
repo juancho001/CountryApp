@@ -64,7 +64,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 # CountryApp
 ```bash
-In this video we configure an Angular application in its v19. We will carry out the challenge of building an App that consumes a REST API which contains detailed information about all the countries in the world
+In this proyect we configure an Angular application in its v19. We will carry out the challenge of building an App that consumes a REST API which contains detailed information about all the countries in the world
 ```
 
 # Install BootStrap 5 and Poppers with NPM
@@ -72,3 +72,7 @@ In this video we configure an Angular application in its v19. We will carry out 
 ```bash
 npm install bootstrap @popperjs/core
 ```
+
+
+# CountryApp
+1.- Inicio del Proyecto
