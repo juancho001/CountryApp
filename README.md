@@ -75,4 +75,7 @@ npm install bootstrap @popperjs/core
 
 
 # CountryApp
+```bash
 1.- Inicio del Proyecto
+2.- Router Module y Paginas SPA
+```
