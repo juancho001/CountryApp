@@ -1,12 +1,22 @@
 import { NgModule } from '@angular/core';
+import { AboutPageComponent } from './pages/about-page/about-page.component';
 import { CommonModule } from '@angular/common';
+import { HomePageComponent } from './pages/home-page/home-page.component';
 
 
 
 @NgModule({
-  declarations: [],
+  declarations: [
+    AboutPageComponent,
+    HomePageComponent
+  ],
   imports: [
-    CommonModule
+    CommonModule,
+
+  ],exports:[
+    AboutPageComponent,
+    HomePageComponent,
+
   ]
 })
 export class SharedModule { }
