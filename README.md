@@ -77,6 +77,12 @@ npm install bootstrap @popperjs/core
 # CountryApp
 ```bash
 1.- Inicio del Proyecto
+
 2.- Router Module y Paginas SPA
+
 3.- RouterLink y RouterLinkOptions
+
+4.- Creación del Contries Module y del Countries Routing Module
+
+5.- Ajuste de las Rutas y LazyLoad - (Carga perezosa)
 ```
